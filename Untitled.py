@@ -1,0 +1,2 @@
+print ("Yeet")
+print("Yeet")
